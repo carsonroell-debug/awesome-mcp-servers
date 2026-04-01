@@ -224,6 +224,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://framerusercontent.com/images/0Bw7GwbNXUBxOAp9pyM0VPOlphg.png" height="14" /> [Skyvern](https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp) - MCP to let Claude or your own LLM control your browser
 - <img src="https://searx.space/favicon.png" height="14" /> [Ihor-Sokoliuk/MCP-SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) - A Model Context Protocol Server for [SearXNG](https://docs.searxng.org)
 - <img src="https://pragmar.com/media/static/images/mcp-server-webcrawl/favicon.png" height="14" /> [mcp-server-webcrawl](https://github.com/pragmar/mcp-server-webcrawl) - Advanced search and retrieval for web crawler data. Supports WARC, wget, Katana, SiteOne, and InterroBot crawlers.
+- 🔗 [LinkRescue MCP](https://github.com/carsonroell-debug/linkrescue-mcp) - Broken link detection, monitoring, and AI-powered fix suggestions. Scans URLs or sitemaps, estimates SEO/revenue impact, and returns actionable remediation steps.
+- 🌐 [SteadyFetch](https://github.com/carsonlabs/steadyfetch) - Reliable web fetching for AI agents with automatic retry, circuit breaker, caching, and anti-bot bypass.
 
 <br />
 
